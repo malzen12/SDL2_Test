@@ -1,0 +1,1 @@
+ -lmingw32 libSDL2_image.dll.a "E:/PROG/Libraries/SDL2/SDL2-2.30.5/libSDL2main.a" "E:/PROG/Libraries/SDL2/SDL2-2.30.5/libSDL2.dll.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

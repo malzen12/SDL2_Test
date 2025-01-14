@@ -1,0 +1,3 @@
+[Test]
+Type=session
+Exec=E:/PROG/Libraries/SDL2/SDL2-2.30.5/libexec/installed-tests/SDL2/testplatform

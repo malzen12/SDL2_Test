@@ -1,0 +1,9 @@
+E:/PROG/Libraries/SDL2/SDL2_image-2.8.2/CMakeFiles/SDL2_image.dir
+E:/PROG/Libraries/SDL2/SDL2_image-2.8.2/CMakeFiles/showanim.dir
+E:/PROG/Libraries/SDL2/SDL2_image-2.8.2/CMakeFiles/showimage.dir
+E:/PROG/Libraries/SDL2/SDL2_image-2.8.2/CMakeFiles/edit_cache.dir
+E:/PROG/Libraries/SDL2/SDL2_image-2.8.2/CMakeFiles/rebuild_cache.dir
+E:/PROG/Libraries/SDL2/SDL2_image-2.8.2/CMakeFiles/list_install_components.dir
+E:/PROG/Libraries/SDL2/SDL2_image-2.8.2/CMakeFiles/install.dir
+E:/PROG/Libraries/SDL2/SDL2_image-2.8.2/CMakeFiles/install/local.dir
+E:/PROG/Libraries/SDL2/SDL2_image-2.8.2/CMakeFiles/install/strip.dir
